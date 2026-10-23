@@ -1,0 +1,10 @@
+{
+  "name": "NIMBUS OPTIMA Premium Lux Report Generator",
+  "short_name": "Nimbus Lux",
+  "description": "Premium room-wise lumen-method lighting report generator.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#102c55",
+  "icons": []
+}
